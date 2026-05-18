@@ -1,4 +1,10 @@
 # miPrimerRepo
 Mi primer repositorio!!
 
-##Mi primer repositorio sobre el curso de git & github
+## Mi primer repositorio sobre el curso de git & github
+- paso 1
+- paso 2
+- paso 3
+```javascript
+alert('hola mundo')
+```

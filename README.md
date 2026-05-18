@@ -16,3 +16,5 @@ Commit desde github
 Una actualizacion mas.
 
 Otra actualizacion para verlo con fetch main..origin/main
+
+prueba rebase -i
